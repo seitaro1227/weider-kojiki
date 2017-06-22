@@ -22,6 +22,7 @@ brew install chromedriver
 git clone https://github.com/seitaro1227/wider-kojiki
 cd wider-kojiki
 bundle install --path vendor/bundle
+# run.rbを修正する
 bundle exec ruby run.rb
 ```
 
